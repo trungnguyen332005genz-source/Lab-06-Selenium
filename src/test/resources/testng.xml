@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Lab 06 Selenium Test Suite - DemoQA Student Registration Form" verbose="1">
+    <test name="Practice Form Comprehensive Tests">
+        <classes>
+            <class name="com.demoqa.tests.FormBasicRequirementsTest"/>
+            <class name="com.demoqa.tests.PracticeFormPOMTest"/>
+            <class name="com.demoqa.tests.PracticeFormDataDrivenTest"/>
+        </classes>
+    </test>
+</suite>

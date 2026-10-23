@@ -1,0 +1,4 @@
+This is a sample document for testing file upload functionality in DemoQA Practice Form (Lab 06 Selenium).
+Student Name: Nguyen Van A
+Date: 2026-10-23
+Course: Software Testing Automation - Selenium WebDriver

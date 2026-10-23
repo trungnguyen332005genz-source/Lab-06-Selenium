@@ -1,0 +1,8 @@
+target/
+*.class
+.idea/
+*.iml
+*.log
+test-output/
+screenshots/*.png
+!screenshots/.gitkeep
